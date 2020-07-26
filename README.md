@@ -1,7 +1,4 @@
-# What-is-Summaries-in-ML
-This repository will present valuable summaries of ML terminology explanations 
-
-Note : None of these are my own explanations and almost everything is collected from online resources. This is a useful collection of resources that are aalready available online.
+Note : None of these are my own explanations and almost everything is collected from online resources. This is a useful collection of resources that are already available online.
 
 ## What is Symbolic AI?
 * Symbolic AI involves the explicit embedding of human knowledge and behavior rules into computer programs.
