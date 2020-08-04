@@ -22,3 +22,10 @@ resources :
 
 resources :
 * [https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
+
+## Machine learning model
+* Machine learning models are mathematical models which make weak assumptions about data, e.g. smoothness assumptions. By combining these assumptions with the data, we observe we can interpolate between data points or, occasionally, extrapolate into the future.
+
+resources :
+* http://inverseprobability.com/talks/notes/the-three-ds-of-machine-learning.html
+
