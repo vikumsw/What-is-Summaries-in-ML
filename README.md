@@ -29,3 +29,10 @@ resources :
 resources :
 * http://inverseprobability.com/talks/notes/the-three-ds-of-machine-learning.html
 
+## Data Science
+* Data science is an field that uses scientific methods, processes, algorithms and etc to extract knowledge and insights from data.
+* Data science differs from traditional statistics in that this data is not necessarily collected with a purpose or experiment in mind. In classical statistics the question is formed first, and data is collected to answer the question.
+
+resources
+* https://inverseprobability.com/2017/07/17/what-is-machine-learning
+* https://en.wikipedia.org/wiki/Data_science
