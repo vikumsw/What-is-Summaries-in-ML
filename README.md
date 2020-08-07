@@ -36,3 +36,9 @@ resources :
 resources
 * https://inverseprobability.com/2017/07/17/what-is-machine-learning
 * https://en.wikipedia.org/wiki/Data_science
+
+## AutoML
+* Coming up with automatic methodologies that can create machine learning models.
+resources :
+* https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/#what-is-automl
+* 
