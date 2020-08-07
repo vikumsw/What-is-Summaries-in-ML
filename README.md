@@ -38,7 +38,8 @@ resources
 * https://en.wikipedia.org/wiki/Data_science
 
 ## AutoML
-* Coming up with automatic methodologies that can create machine learning models.
+* Coming up with automatic methodologies that can create machine learning models.  
+
 resources :
 * https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/#what-is-automl
 * 
