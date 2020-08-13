@@ -27,19 +27,26 @@ resources :
 * Machine learning models are mathematical models which make weak assumptions about data, e.g. smoothness assumptions. By combining these assumptions with the data, we observe we can interpolate between data points or, occasionally, extrapolate into the future.
 
 resources :
-* http://inverseprobability.com/talks/notes/the-three-ds-of-machine-learning.html
+* [http://inverseprobability.com/talks/notes/the-three-ds-of-machine-learning.html](http://inverseprobability.com/talks/notes/the-three-ds-of-machine-learning.html)
+
 
 ## Data Science
 * Data science is an field that uses scientific methods, processes, algorithms and etc to extract knowledge and insights from data.
 * Data science differs from traditional statistics in that this data is not necessarily collected with a purpose or experiment in mind. In classical statistics the question is formed first, and data is collected to answer the question.
 
 resources
-* https://inverseprobability.com/2017/07/17/what-is-machine-learning
-* https://en.wikipedia.org/wiki/Data_science
+* [https://inverseprobability.com/2017/07/17/what-is-machine-learning](https://inverseprobability.com/2017/07/17/what-is-machine-learning)
+* [https://en.wikipedia.org/wiki/Data_science](https://en.wikipedia.org/wiki/Data_science)
 
 ## AutoML
 * Coming up with automatic methodologies that can create machine learning models.  
 
 resources :
-* https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/#what-is-automl
-* 
+* [https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/#what-is-automl](https://www.vanderschaar-lab.com/automl-powering-the-new-human-machine-learning-ecosystem/#what-is-automl)
+
+##  What Is Data Curation?
+* Data curation is the work of organizing and managing a collection of datasets to meet the needs and interests of a specific groups of people.
+
+resources :
+* [https://www.alation.com/blog/what-is-data-curation/](https://www.alation.com/blog/what-is-data-curation/)
+
