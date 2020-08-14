@@ -50,3 +50,8 @@ resources :
 resources :
 * [https://www.alation.com/blog/what-is-data-curation/](https://www.alation.com/blog/what-is-data-curation/)
 
+##  What Is Data wrangling/Data munging ?
+* Data wrangling, sometimes referred to as data munging, is the process of transforming and mapping data from one "raw" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes.  
+
+resources :
+* [Wikipedia](https://en.wikipedia.org/wiki/Data_wrangling#:~:text=Data%20wrangling%2C%20sometimes%20referred%20to,downstream%20purposes%20such%20as%20analytics.)
