@@ -55,3 +55,11 @@ resources :
 
 resources :
 * [Wikipedia](https://en.wikipedia.org/wiki/Data_wrangling#:~:text=Data%20wrangling%2C%20sometimes%20referred%20to,downstream%20purposes%20such%20as%20analytics.)
+
+## What is A/B testing?  
+* A/B testing (also known as bucket testing or split-run testing) is a user experience research methodology.  
+* A/B tests consist of a randomized experiment with two variants, A and B.  
+* A/B testing is a way to compare two versions of a single variable, typically by testing a subject's response to variant A against variant B, and determining which of the two variants is more effective.  
+
+resources :
+* [Wikipedia](https://en.wikipedia.org/wiki/A/B_testing)
